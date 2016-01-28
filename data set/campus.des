@@ -1,0 +1,36 @@
+{smcl}
+{com}{sf}{ul off}{txt}{.-}
+       log:  {res}C:\swbook\textfiles\campus.des
+  {txt}log type:  {res}smcl
+ {txt}opened on:  {res}24 May 2002, 12:19:45
+{txt}
+{com}. ds
+{txt}enroll    priv      police    crime     lcrime    lenroll   lpolice   
+
+{com}. des
+
+{txt}Contains data from {res}campus.dta
+{txt}  obs:{res}            97                          
+{txt} vars:{res}             7                          16 May 2002 23:24
+{txt} size:{res}         2,328{txt} (99.6% of memory free)
+{hline 79}
+              storage  display     value
+variable name   type   format      label      variable label
+{hline 79}
+{res}enroll         {txt} float  %9.0g                  {res}total enrollment
+priv           {txt} byte   %9.0g                  {res}=1 if private college
+police         {txt} byte   %9.0g                  {res}employed officers
+crime          {txt} int    %9.0g                  {res}total campus crimes
+lcrime         {txt} float  %9.0g                  {res}log(crime)
+lenroll        {txt} float  %9.0g                  {res}log(enroll)
+lpolice        {txt} float  %9.0g                  {res}log(police)
+{txt}{hline 79}
+Sorted by:  
+
+{com}. log close
+       {txt}log:  {res}C:\swbook\textfiles\campus.des
+  {txt}log type:  {res}smcl
+ {txt}closed on:  {res}24 May 2002, 12:19:50
+{txt}{.-}
+{smcl}
+{txt}{sf}{ul off}

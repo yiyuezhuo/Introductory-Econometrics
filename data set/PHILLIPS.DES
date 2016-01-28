@@ -1,0 +1,19 @@
+PHILLIPS.DES
+
+year      unem      inf       unem_1    inf_1     unem_2    inf_2     cunem    
+cinf      cunem_1   cinf_1    
+
+  Obs:    49
+
+  1. year                     1948-1996
+  2. unem                     civilian unemployment rate
+  3. inf                      CPI inflation rate
+  4. unem_1                   unem lagged once
+  5. inf_1                    inf lagged once
+  6. unem_2                   unem lagged twice
+  7. inf_2                    inf lagged twice
+  8. cunem                    unem - unem_1
+  9. cinf                     inf - inf_1
+ 10. cunem_1                  cunem lagged once
+ 11. cinf_1                   cinf lagged once
+

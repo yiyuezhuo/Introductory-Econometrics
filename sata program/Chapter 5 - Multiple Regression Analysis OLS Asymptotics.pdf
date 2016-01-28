@@ -1,0 +1,577 @@
+%PDF-1.6%‚„œ”
+1 0 obj<</Names 58 0 R/Outlines 5 0 R/Metadata 63 0 R/Pages 2 0 R/SpiderInfo 48 0 R/StructTreeRoot 7 0 R/Type/Catalog>>endobj2 0 obj<</Count 3/Type/Pages/Kids[11 0 R 17 0 R 19 0 R]>>endobj3 0 obj<</CreationDate(D:20100519112334+08'00')/Producer(Acrobat Web Capture 7.0)/ModDate(D:20100519112335+08'00')/Title(Stata Textbook Examples, Introductory Econometrics, Chapter 5)>>endobj5 0 obj<</First 61 0 R/Count 2/Last 61 0 R/Type/Outlines>>endobj7 0 obj<</K 9 0 R/ParentTree 14 0 R/ParentTreeNextKey 3/Type/StructTreeRoot/ClassMap 8 0 R>>endobj8 0 obj<</SpdrArt<</O/WebCapture>>>>endobj9 0 obj<</K 10 0 R/P 7 0 R/S/Document>>endobj10 0 obj<</C/SpdrArt/K[0<</MCID 0/Pg 17 0 R/Type/MCR>><</MCID 0/Pg 19 0 R/Type/MCR>>]/P 9 0 R/S/Article/T()/Pg 11 0 R>>endobj11 0 obj<</Annots 13 0 R/Parent 2 0 R/ID 54 0 R/StructParents 0/Contents 40 0 R/PZ 1.10327/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</C0_0 25 0 R/TT0 30 0 R/TT1 32 0 R/TT2 34 0 R/TT3 36 0 R/TT4 38 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj12 0 obj<</Rect[9.06398 753.28 154.745 765.607]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://fmwww.bc.edu/gstat/examples/default.html)/S/URI>>/Border[0 0 0]>>endobj13 0 obj[12 0 R 16 0 R]endobj14 0 obj<</Nums[0 15 0 R 1 18 0 R 2 20 0 R]>>endobj15 0 obj[10 0 R]endobj16 0 obj<</Rect[9.06398 737.762 517.841 750.089]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.swcollege.com/bef/wooldridge/wooldridge.html)/S/URI>>/Border[0 0 0]>>endobj17 0 obj<</Parent 2 0 R/ID 54 0 R/StructParents 1/Contents 43 0 R/PZ 1.10327/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</C0_0 25 0 R/TT0 32 0 R/TT1 34 0 R/TT2 36 0 R/TT3 38 0 R/TT4 41 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj18 0 obj[10 0 R]endobj19 0 obj<</Annots 22 0 R/Parent 2 0 R/ID 54 0 R/StructParents 2/Contents 46 0 R/PZ 1.10327/MediaBox[0.0 0.0 612.0 792.0]/Resources<</Font<</C0_0 25 0 R/TT0 32 0 R/TT1 44 0 R>>/ProcSet[/PDF/Text]>>/Type/Page>>endobj20 0 obj[10 0 R]endobj21 0 obj<</Rect[449.132 744.616 548.415 758.212]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(mailto:baum@bc.edu)/S/URI>>/Border[0 0 0]>>endobj22 0 obj[21 0 R 23 0 R 24 0 R]endobj23 0 obj<</Rect[475.152 727.575 570.045 741.171]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://fmwww.bc.edu/GStat/)/S/URI>>/Border[0 0 0]>>endobj24 0 obj<</Rect[275.361 710.535 493.609 724.131]/Subtype/Link/BS<</S/S/W 0/Type/Border>>/A<</URI(http://www.bc.edu/offices/ats)/S/URI>>/Border[0 0 0]>>endobj25 0 obj<</Subtype/Type0/DescendantFonts 26 0 R/BaseFont/AdobeSongStd-Light/Encoding/UniGB-UCS2-H/Type/Font>>endobj26 0 obj[27 0 R]endobj27 0 obj<</Subtype/CIDFontType0/FontDescriptor 28 0 R/BaseFont/AdobeSongStd-Light/W[0[1000 207 270 342 467 462 797 710 239]9 10 374 11[423 605 238 375 238 334]17 26 462 27 28 238 29 31 605 32[344 748 684 560 695 739 563 511 729 793 318 312 666 526 896 758 772 544 772 628 465 607 753 711 972 647 620 607 374 333 374 606 500 239 417 503 427 529 415 264 444 518 241 230 495 228 793 527]80 81 524 82[504 338 336 277 517 450 652 466 452 407 370 258 370 605]22353 22354 462 22357[500]]/CIDSystemInfo 29 0 R/DW 1000/Type/Font>>endobj28 0 obj<</StemV 40/FontName/AdobeSongStd-Light/FontStretch/Normal/FontWeight 300/Flags 34/Descent -254/FontBBox[-134 -254 1001 905]/Ascent 905/FontFamily(Adobe Song Std)/CapHeight 626/XHeight 447/Type/FontDescriptor/ItalicAngle 0>>endobj29 0 obj<</Supplement 4/Ordering(GB1)/Registry(Adobe)>>endobj30 0 obj<</Subtype/TrueType/FontDescriptor 31 0 R/LastChar 255/Widths[1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 293 343 489 818 637 1199 781 275 454 454 637 818 313 431 313 577 637 637 637 637 637 637 637 637 637 637 363 363 818 818 818 566 920 685 686 667 757 615 581 745 764 483 500 696 572 893 771 770 657 770 726 633 612 739 675 1028 685 670 623 454 577 454 818 637 546 599 632 527 629 594 382 629 640 302 363 603 302 954 640 617 629 629 434 515 416 640 579 890 604 576 526 623 637 623 818 637 637 637 275 637 489 1000 637 637 546 1676 633 425 1037 637 623 637 637 275 275 489 489 637 637 909 546 861 515 425 985 637 526 670 293 343 637 637 637 637 637 637 546 929 508 703 818 431 929 637 520 818 539 539 546 651 637 363 546 539 539 703 1128 1128 1128 566 685 685 685 685 685 685 989 667 615 615 615 615 483 483 483 483 774 771 770 770 770 770 770 818 770 739 739 739 739 670 659 646 599 599 599 599 599 599 937 527 594 594 594 594 302 302 302 302 620 640 617 617 617 617 617 818 617 640 640 640 640 576 629 576]/BaseFont/Tahoma,Bold/FirstChar 0/Encoding/WinAnsiEncoding/Type/Font>>endobj31 0 obj<</StemV 172/FontName/Tahoma,Bold/FontStretch/Normal/FontWeight 700/Flags 32/Descent -216/FontBBox[-698 -216 1625 1065]/Ascent 1065/FontFamily(Tahoma)/CapHeight 727/XHeight 548/Type/FontDescriptor/ItalicAngle 0>>endobj32 0 obj<</Subtype/TrueType/FontDescriptor 33 0 R/LastChar 255/Widths[1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 352 394 459 818 636 1076 727 269 454 454 636 818 364 454 364 454 636 636 636 636 636 636 636 636 636 636 454 454 818 818 818 545 1000 684 686 698 771 632 575 775 751 421 455 693 557 843 748 787 603 787 695 684 616 732 684 989 685 615 685 454 454 454 818 636 636 601 623 521 623 596 352 623 633 274 344 592 274 973 633 607 623 623 427 521 394 633 592 818 592 592 525 635 454 635 818 545 636 545 269 636 459 818 636 636 636 1521 684 454 1070 545 685 545 545 269 269 459 459 545 636 1000 636 977 521 454 981 545 525 615 352 394 636 636 636 636 454 636 636 1000 545 645 818 454 1000 636 542 818 542 542 636 642 636 364 636 542 545 645 1000 1000 1000 545 684 684 684 684 684 684 984 698 632 632 632 632 421 421 421 421 775 748 787 787 787 787 787 818 787 732 732 732 732 615 605 620 601 601 601 601 601 601 955 521 596 596 596 596 274 274 274 274 612 633 607 607 607 607 607 818 607 633 633 633 633 592 623 592]/BaseFont/Verdana/FirstChar 0/Encoding/WinAnsiEncoding/Type/Font>>endobj33 0 obj<</StemV 92/FontName/Verdana/FontStretch/Normal/FontWeight 400/Flags 32/Descent -303/FontBBox[-495 -303 1447 1000]/Ascent 1000/FontFamily(Verdana)/CapHeight 727/XHeight 545/Type/FontDescriptor/ItalicAngle 0>>endobj34 0 obj<</Subtype/TrueType/FontDescriptor 35 0 R/LastChar 255/Widths[600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600]/BaseFont/CourierNew,BoldItalic/FirstChar 0/Encoding/WinAnsiEncoding/Type/Font>>endobj35 0 obj<</StemV 100/FontName/CourierNew,BoldItalic/FontStretch/Normal/FontWeight 700/Flags 98/Descent -377/FontBBox[-103 -377 839 1004]/Ascent 1004/FontFamily(Courier New)/CapHeight 592/XHeight 443/Type/FontDescriptor/ItalicAngle -12>>endobj36 0 obj<</Subtype/TrueType/FontDescriptor 37 0 R/LastChar 255/Widths[600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600]/BaseFont/CourierNew,Bold/FirstChar 0/Encoding/WinAnsiEncoding/Type/Font>>endobj37 0 obj<</StemV 100/FontName/CourierNew,Bold/FontStretch/Normal/FontWeight 700/Flags 34/Descent -710/FontBBox[-192 -710 702 1221]/Ascent 1221/FontFamily(Courier New)/CapHeight 592/XHeight 443/Type/FontDescriptor/ItalicAngle 0>>endobj38 0 obj<</Subtype/TrueType/FontDescriptor 39 0 R/LastChar 255/Widths[600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600 600]/BaseFont/CourierNew/FirstChar 0/Encoding/WinAnsiEncoding/Type/Font>>endobj39 0 obj<</StemV 40/FontName/CourierNew/FontStretch/Normal/FontWeight 400/Flags 34/Descent -680/FontBBox[-122 -680 623 1021]/Ascent 1021/FontFamily(Courier New)/CapHeight 571/XHeight 423/Type/FontDescriptor/ItalicAngle 0>>endobj40 0 obj<</Length 5315>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778.8424 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/C0_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 8.1576 0 0 8.1576 18 780.6302 Tm
+<00530074006100740061002000540065007800740062006F006F006B0020004500780061006D0070006C00650073002C00200049006E00740072006F0064007500630074006F00720079002000450063006F006E006F006D006500740072006900630073002C0020004300680061007000740065007200200035>Tj
+ET
+EMC 
+/WebCaptureBG BMC 
+/WebCaptureFN <</L 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [9.064 34.3152 602.936 766.7488 ]>>BDC 
+Q
+1 1 1 rg
+9.064 34.315 593.872 732.434 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [9.064 34.3152 602.936 766.7488 ]>>BDC 
+Q
+9.064 34.315 593.872 732.434 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [9.064 722.009 602.936 766.7488 ]>>BDC 
+Q
+9.064 722.009 593.872 44.74 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [9.064 753.2797 154.7454 765.6068 ]>>BDC 
+Q
+9.064 753.28 145.681 12.327 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [9.064 737.7622 517.841 750.0892 ]>>BDC 
+Q
+9.064 737.762 508.777 12.327 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [9.064 657.4734 397.3649 671.0695 ]>>BDC 
+Q
+9.064 657.473 388.301 13.596 re
+f
+EMC 
+EMC 
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+0.502 0 0 rg
+BT
+/TT0 1 Tf
+11.4206 0 0 11.4206 9.064 756.1119 Tm
+(Stata Textbook Examples)Tj
+0 0.2 0.4 rg
+( )Tj
+0.502 0 0 rg
+0 -1.359 TD
+(Introductory Econometrics: A Modern Approach by Jeffrey M. Wooldridge \(\1st & 2d eds.\))Tj
+0 0.2 0.4 rg
+(  )Tj
+T*
+(Chapter 5 - Multiple Regression Analysis: OLS Asymptotics)Tj
+0 0 0.502 rg
+/TT1 1 Tf
+12.6896 0 0 12.6896 45.3199 693.7798 Tm
+(Example 5.2: Standard Errors in a Birth Weight Equation)Tj
+0 0 0 rg
+/TT2 1 Tf
+-2.857 -2.517 Td
+(use http://fmwww.bc.edu/ec-p/data/wooldridge/BWGHT )Tj
+0 0 0.502 rg
+/TT1 1 Tf
+2.857 -2.598 Td
+(Regression with 694 observations)Tj
+0 0 0 rg
+/TT3 1 Tf
+-2.857 -2.422 Td
+(reg lbwght cigs lfaminc in 1/694)Tj
+/TT4 1 Tf
+0 -2.368 TD
+(  Source |       SS       df       MS                  Number of obs =  \   694)Tj
+0 -1.2 TD
+(---------+------------------------------               F\(  2,   691\) =\   10.52)Tj
+T*
+(   Model |  .809213892     2  .404606946               Prob > F      =  \0.0000)Tj
+T*
+(Residual |  26.5787089   691  .038464123               R-squared     =  \0.0295)Tj
+T*
+(---------+------------------------------               Adj R-squared =  \0.0267)Tj
+T*
+(   Total |  27.3879228   693  .039520812               Root MSE      =  \.19612)Tj
+0 -2.4 TD
+(------------------------------------------------------------------------\------)Tj
+0 -1.2 TD
+(  lbwght |      Coef.   Std. Err.       t     P>|t|       [95% Conf. Int\erval])Tj
+T*
+(---------+--------------------------------------------------------------\------)Tj
+T*
+(    cigs |  -.0046368   .0013319     -3.481   0.001      -.0072519   -.0\020216)Tj
+T*
+( lfaminc |   .0194044   .0081884      2.370   0.018       .0033274    .0\354815)Tj
+T*
+(   _cons |   4.705583    .027053    173.939   0.000       4.652467    4.\758699)Tj
+T*
+(------------------------------------------------------------------------\------)Tj
+0 0 0.502 rg
+/TT1 1 Tf
+2.857 -2.724 Td
+(Regression with 1388 observations)Tj
+0 0 0 rg
+/TT3 1 Tf
+-2.857 -2.422 Td
+(reg lbwght cigs lfaminc)Tj
+/TT4 1 Tf
+0 -2.368 TD
+(  Source |       SS       df       MS                  Number of obs =  \  1388)Tj
+0 -1.2 TD
+(---------+------------------------------               F\(  2,  1385\) =\   18.31)Tj
+T*
+(   Model |  1.29879046     2   .64939523               Prob > F      =  \0.0000)Tj
+T*
+(Residual |  49.1215342  1385  .035466812               R-squared     =  \0.0258)Tj
+T*
+(---------+------------------------------               Adj R-squared =  \0.0244)Tj
+T*
+(   Total |  50.4203246  1387  .036352073               Root MSE      =  \.18833)Tj
+0 -2.4 TD
+(------------------------------------------------------------------------\------)Tj
+0 -1.2 TD
+(  lbwght |      Coef.   Std. Err.       t     P>|t|       [95% Conf. Int\erval])Tj
+0 -1.2 TD
+(---------+--------------------------------------------------------------\------)Tj
+0 -1.2 TD
+(    cigs |  -.0040816   .0008582     -4.756   0.000      -.0057651    -.\002398)Tj
+T*
+( lfaminc |   .0162657   .0055833      2.913   0.004        .005313    .0\272183)Tj
+T*
+(   _cons |   4.718594   .0182445    258.631   0.000       4.682804    4.\754383)Tj
+T*
+(------------------------------------------------------------------------\------ )Tj
+ET
+0.5 0.5 0.5 rg
+9.064 45.111 m
+9.064 46.924 l
+602.936 46.924 l
+602.03 46.017 l
+9.97 46.017 l
+9.97 46.017 l
+h
+f
+0.875 0.875 0.875 rg
+602.936 46.924 m
+602.936 45.111 l
+9.064 45.111 l
+9.97 46.017 l
+602.03 46.017 l
+602.03 46.017 l
+h
+f
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5.8424 582 14 ]>>BDC 
+Q
+0 0 0 rg
+BT
+/C0_0 1 Tf
+8.1576 0 0 8.1576 18 7.6302 Tm
+<0068007400740070003A002F002F0066006D007700770077002E00620063002E006500640075002F00670073007400610074002F006500780061006D0070006C00650073002F0077006F006F006C006400720069006400670065002F0077006F006F006C0064007200690064006700650035002E00680074006D006CFF087B2C00200031FF0F003300209875FF090032003000310030002F0035002F00310039002000310031003A00320033003A00330035>Tj
+ET
+EMC 
+
+endstreamendobj41 0 obj<</Subtype/TrueType/FontDescriptor 42 0 R/LastChar 255/Widths[1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 352 394 459 818 636 1076 727 269 454 454 636 818 364 454 364 454 636 636 636 636 636 636 636 636 636 636 454 454 818 818 818 545 1000 683 686 698 766 632 575 775 751 421 455 693 557 843 748 787 603 787 695 684 616 732 683 990 685 615 685 454 454 454 818 636 636 601 623 521 623 596 352 622 633 274 344 587 274 973 633 607 623 623 427 521 394 633 591 818 592 591 525 635 454 635 818 545 636 545 269 636 459 818 636 636 636 1519 684 454 1070 545 685 545 545 269 269 459 459 545 636 1000 636 977 521 454 980 545 525 615 352 394 636 636 636 636 454 636 636 1000 545 645 818 454 1000 636 542 818 542 542 636 642 636 364 636 542 545 645 1000 1000 1000 545 683 683 683 683 683 683 989 698 632 632 632 632 421 421 421 421 766 748 787 787 787 787 787 818 787 732 732 732 732 615 605 620 601 601 601 601 601 601 955 521 596 596 596 596 274 274 274 274 612 633 607 607 607 607 607 818 607 633 633 633 633 591 623 591]/BaseFont/Verdana,Italic/FirstChar 0/Encoding/WinAnsiEncoding/Type/Font>>endobj42 0 obj<</StemV 88/FontName/Verdana,Italic/FontStretch/Normal/FontWeight 400/Flags 96/Descent -303/FontBBox[-417 -303 1461 1000]/Ascent 1000/FontFamily(Verdana)/CapHeight 727/XHeight 545/Type/FontDescriptor/ItalicAngle -13>>endobj43 0 obj<</Length 5086>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778.8424 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/C0_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 8.1576 0 0 8.1576 18 780.6302 Tm
+<00530074006100740061002000540065007800740062006F006F006B0020004500780061006D0070006C00650073002C00200049006E00740072006F0064007500630074006F00720079002000450063006F006E006F006D006500740072006900630073002C0020004300680061007000740065007200200035>Tj
+ET
+EMC 
+/WebCaptureBG BMC 
+/WebCaptureFN <</L 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [9.064 34.3152 602.936 766.7488 ]>>BDC 
+Q
+1 1 1 rg
+9.064 34.315 593.872 732.434 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [9.064 34.3152 602.936 766.7488 ]>>BDC 
+Q
+9.064 34.315 593.872 732.434 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [9.064 706.6642 404.9787 720.2602 ]>>BDC 
+Q
+9.064 706.664 395.915 13.596 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [9.064 398.1263 153.7251 411.7223 ]>>BDC 
+Q
+9.064 398.126 144.661 13.596 re
+f
+EMC 
+EMC 
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+0 0 0.502 rg
+BT
+/TT0 1 Tf
+12.6896 0 0 12.6896 45.3199 742.9705 Tm
+(Example 5.3: Economic Model of Crime)Tj
+0 0 0 rg
+/TT1 1 Tf
+-2.857 -2.517 Td
+(use http://fmwww.bc.edu/ec-p/data/wooldridge/CRIME1 )Tj
+/TT2 1 Tf
+0 -2.462 TD
+(reg narr86 pcnv ptime86 qemp86)Tj
+/TT3 1 Tf
+0 -2.368 TD
+(  Source |       SS       df       MS                  Number of obs =  \  2725)Tj
+0 -1.2 TD
+(---------+------------------------------               F\(  3,  2721\) =\   39.10)Tj
+T*
+(   Model |  83.0741941     3   27.691398               Prob > F      =  \0.0000)Tj
+T*
+(Residual |  1927.27296  2721  .708295833               R-squared     =  \0.0413)Tj
+T*
+(---------+------------------------------               Adj R-squared =  \0.0403)Tj
+T*
+(   Total |  2010.34716  2724  .738012906               Root MSE      =  \ .8416)Tj
+0 -2.4 TD
+(------------------------------------------------------------------------\------)Tj
+0 -1.2 TD
+(  narr86 |      Coef.   Std. Err.       t     P>|t|       [95% Conf. Int\erval])Tj
+T*
+(---------+--------------------------------------------------------------\------)Tj
+T*
+(    pcnv |  -.1499274   .0408653     -3.669   0.000      -.2300576   -.0\697973)Tj
+T*
+( ptime86 |  -.0344199    .008591     -4.007   0.000      -.0512655   -.0\175744)Tj
+T*
+(  qemp86 |   -.104113   .0103877    -10.023   0.000      -.1244816   -.0\837445)Tj
+T*
+(   _cons |   .7117715   .0330066     21.565   0.000        .647051     .\776492)Tj
+T*
+(------------------------------------------------------------------------\------)Tj
+/TT1 1 Tf
+0 -2.684 TD
+(predict ubar, resid)Tj
+/TT2 1 Tf
+0 -2.462 TD
+(reg ubar pcnv ptime86 qemp86 avgsen tottime)Tj
+/TT3 1 Tf
+0 -2.368 TD
+(  Source |       SS       df       MS                  Number of obs =  \  2725)Tj
+0 -1.2 TD
+(---------+------------------------------               F\(  5,  2719\) =\    0.81)Tj
+T*
+(   Model |  2.87904835     5  .575809669               Prob > F      =  \0.5398)Tj
+T*
+(Residual |  1924.39392  2719  .707757969               R-squared     =  \0.0015)Tj
+T*
+(---------+------------------------------               Adj R-squared = -\0.0003)Tj
+T*
+(   Total |  1927.27297  2724  .707515773               Root MSE      =  \.84128)Tj
+0 -2.4 TD
+(------------------------------------------------------------------------\------)Tj
+0 -1.2 TD
+(    ubar |      Coef.   Std. Err.       t     P>|t|       [95% Conf. Int\erval])Tj
+T*
+(---------+--------------------------------------------------------------\------)Tj
+T*
+(    pcnv |  -.0012971    .040855     -0.032   0.975      -.0814072    .0\788129)Tj
+T*
+( ptime86 |  -.0048386   .0089166     -0.543   0.587      -.0223226    .0\126454)Tj
+T*
+(  qemp86 |   .0010221   .0103972      0.098   0.922      -.0193652    .0\214093)Tj
+T*
+(  avgsen |  -.0070487   .0124122     -0.568   0.570       -.031387    .0\172897)Tj
+T*
+( tottime |   .0120953   .0095768      1.263   0.207      -.0066833     .\030874)Tj
+T*
+(   _cons |  -.0057108   .0331524     -0.172   0.863      -.0707173    .0\592956)Tj
+T*
+(------------------------------------------------------------------------\------ )Tj
+ET
+0.5 0.5 0.5 rg
+9.064 65.841 m
+9.064 67.654 l
+602.936 67.654 l
+602.03 66.747 l
+9.97 66.747 l
+9.97 66.747 l
+h
+f
+0.875 0.875 0.875 rg
+602.936 67.654 m
+602.936 65.841 l
+9.064 65.841 l
+9.97 66.747 l
+602.03 66.747 l
+602.03 66.747 l
+h
+f
+0 0 0.502 rg
+BT
+/TT4 1 Tf
+12.6896 0 0 12.6896 9.064 48.4883 Tm
+(This page prepared by Oleksandr Talavera \(revised 13 Sep 2002\))Tj
+/TT0 1 Tf
+( )Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5.8424 582 14 ]>>BDC 
+Q
+0 0 0 rg
+BT
+/C0_0 1 Tf
+8.1576 0 0 8.1576 18 7.6302 Tm
+<0068007400740070003A002F002F0066006D007700770077002E00620063002E006500640075002F00670073007400610074002F006500780061006D0070006C00650073002F0077006F006F006C006400720069006400670065002F0077006F006F006C0064007200690064006700650035002E00680074006D006CFF087B2C00200032FF0F003300209875FF090032003000310030002F0035002F00310039002000310031003A00320033003A00330035>Tj
+ET
+EMC 
+
+endstreamendobj44 0 obj<</Subtype/TrueType/FontDescriptor 45 0 R/LastChar 255/Widths[1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 1000 342 402 587 867 711 1272 862 332 543 543 711 867 361 480 361 689 711 711 711 711 711 711 711 711 711 711 402 402 867 867 867 617 964 776 762 724 830 683 650 811 837 546 555 771 637 948 847 850 733 850 782 710 682 812 764 1128 764 737 692 543 689 543 867 711 711 668 699 588 699 664 422 699 712 342 403 671 342 1058 712 687 699 699 497 593 456 712 650 979 669 651 597 711 543 711 867 711 711 711 332 711 587 1049 711 711 711 1777 710 543 1135 711 692 711 711 332 332 587 587 711 711 1000 711 964 593 543 1068 711 597 737 342 402 711 711 711 711 543 711 711 964 598 850 867 480 964 711 587 867 598 598 711 721 711 361 711 598 598 850 1182 1182 1182 617 776 776 776 776 776 776 1094 724 683 683 683 683 546 546 546 546 830 847 850 850 850 850 850 867 850 812 812 812 812 737 735 713 668 668 668 668 668 668 1018 588 664 664 664 664 342 342 342 342 679 712 687 687 687 687 687 867 687 712 712 712 712 651 699 651]/BaseFont/Verdana,Bold/FirstChar 0/Encoding/WinAnsiEncoding/Type/Font>>endobj45 0 obj<</StemV 176/FontName/Verdana,Bold/FontStretch/Normal/FontWeight 700/Flags 32/Descent -303/FontBBox[-544 -303 1707 1014]/Ascent 1014/FontFamily(Verdana)/CapHeight 727/XHeight 548/Type/FontDescriptor/ItalicAngle 0>>endobj46 0 obj<</Length 2209>>stream
+/Artifact <</Attached [/Top ]/Type /Pagination /BBox [18 778.8424 582 787 ]>>BDC 
+0 0 0 rg
+0 i 
+BT
+/C0_0 1 Tf
+0 Tc 0 Tw 0  Ts 100  Tz 0 Tr 8.1576 0 0 8.1576 18 780.6302 Tm
+<00530074006100740061002000540065007800740062006F006F006B0020004500780061006D0070006C00650073002C00200049006E00740072006F0064007500630074006F00720079002000450063006F006E006F006D006500740072006900630073002C0020004300680061007000740065007200200035>Tj
+ET
+EMC 
+/WebCaptureBG BMC 
+/WebCaptureFN <</L 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [9.064 691.1382 602.936 766.7488 ]>>BDC 
+Q
+1 1 1 rg
+9.064 691.138 593.872 75.611 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [9.064 691.1382 602.936 766.7488 ]>>BDC 
+Q
+9.064 691.138 593.872 75.611 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [449.132 744.6157 548.4153 758.2116 ]>>BDC 
+Q
+449.132 744.616 99.283 13.596 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [475.152 727.5753 570.0447 741.1713 ]>>BDC 
+Q
+475.152 727.575 94.893 13.596 re
+f
+EMC 
+q
+0 18 612 756 re
+W* n
+/Artifact <</Type /Layout /BBox [275.361 710.535 493.609 724.131 ]>>BDC 
+Q
+275.361 710.535 218.248 13.596 re
+f
+EMC 
+EMC 
+EMC 
+/Article <</MCID 0 >>BDC 
+q
+0 18 612 756 re
+W* n
+0 0 0.502 rg
+BT
+/TT0 1 Tf
+12.6896 0 0 12.6896 63.5847 748.4415 Tm
+(Send your questions/comments/suggestions to Kit Baum at )Tj
+0.502 0 0 rg
+/TT1 1 Tf
+(baum@bc.edu)Tj
+0 0 0.502 rg
+/TT0 1 Tf
+(  )Tj
+-2.068 -1.343 Td
+(These pages are maintained by the Faculty Micro Resource Center's )Tj
+0.502 0 0 rg
+/TT1 1 Tf
+(GSA Program)Tj
+0 0 0.502 rg
+/TT0 1 Tf
+(, )Tj
+6.387 -1.343 Td
+(a unit of Boston College )Tj
+0.502 0 0 rg
+/TT1 1 Tf
+(Academic Technology Services)Tj
+ET
+EMC 
+/Artifact <</Attached [/Bottom ]/Type /Pagination /BBox [18 5.8424 582 14 ]>>BDC 
+Q
+0 0 0 rg
+BT
+/C0_0 1 Tf
+8.1576 0 0 8.1576 18 7.6302 Tm
+<0068007400740070003A002F002F0066006D007700770077002E00620063002E006500640075002F00670073007400610074002F006500780061006D0070006C00650073002F0077006F006F006C006400720069006400670065002F0077006F006F006C0064007200690064006700650035002E00680074006D006CFF087B2C00200033FF0F003300209875FF090032003000310030002F0035002F00310039002000310031003A00320033003A00330035>Tj
+ET
+EMC 
+
+endstreamendobj47 0 obj(Stata Textbook Examples, Introductory Econometrics, Chapter 5)endobj48 0 obj<</C 52 0 R/V 1.25>>endobj49 0 obj<</URL(http://fmwww.bc.edu/gstat/examples/wooldridge/wooldridge5.html)/S 50 0 R>>endobj50 0 obj<</G 51 0 R>>endobj51 0 obj<</CB 0/M[10.08 10.08 26.0 36.0]/S 0/PO 0/PS[792.0 612.0]/AH 0/AL 0/SU 1/AS 1/AT 70>>endobj52 0 obj[49 0 R]endobj53 0 obj(http://fmwww.bc.edu/gstat/examples/wooldridge/wooldridge5.html)endobj54 0 obj(¡Êºd§ÇHÒ*M†–)endobj55 0 obj<</TS(D:20100519032335)/ID 54 0 R/CT(text/html)/O[11 0 R 17 0 R 19 0 R]/S/SPS/T 47 0 R/TID 57 0 R/SI 56 0 R>>endobj56 0 obj<</TS(D:20100519032335)/AU 53 0 R>>endobj57 0 obj(ê∞\nU`üÂö,ÅΩ˝:Ì)endobj58 0 obj<</IDS 59 0 R/URLS 60 0 R>>endobj59 0 obj<</Names[54 0 R 55 0 R]>>endobj60 0 obj<</Names[53 0 R 55 0 R]>>endobj61 0 obj<</First 62 0 R/Parent 5 0 R/Count 1/Last 62 0 R/Title(bc.edu)>>endobj62 0 obj<</Parent 61 0 R/Dest[11 0 R/XYZ 0 792 null]/SE 10 0 R/Title(Stata Textbook Examples, Introductory Econometrics, Chapter 5)>>endobj63 0 obj<</Subtype/XML/Length 3435/Type/Metadata>>stream
+<?xpacket begin="Ôªø" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="3.1-701">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:xap="http://ns.adobe.com/xap/1.0/">
+         <xap:ModifyDate>2010-05-19T11:23:35+08:00</xap:ModifyDate>
+         <xap:CreateDate>2010-05-19T11:23:34+08:00</xap:CreateDate>
+         <xap:MetadataDate>2010-05-19T11:23:35+08:00</xap:MetadataDate>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/">
+         <dc:format>application/pdf</dc:format>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Stata Textbook Examples, Introductory Econometrics, Chapter 5</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:xapMM="http://ns.adobe.com/xap/1.0/mm/">
+         <xapMM:DocumentID>uuid:fdd3f4db-43e1-4540-bb54-72a95fea1d9d</xapMM:DocumentID>
+         <xapMM:InstanceID>uuid:d6a119b1-05c4-4012-816f-291b9f713cbc</xapMM:InstanceID>
+      </rdf:Description>
+      <rdf:Description rdf:about=""
+            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
+         <pdf:Producer>Acrobat Web Capture 7.0</pdf:Producer>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?>
+endstreamendobjxref
+0 64
+0000000004 00000 f
+0000000016 00000 n
+0000000143 00000 n
+0000000208 00000 n
+0000000006 00000 f
+0000000401 00000 n
+0000000000 00001 f
+0000000467 00000 n
+0000000567 00000 n
+0000000611 00000 n
+0000000658 00000 n
+0000000785 00000 n
+0000001034 00000 n
+0000001210 00000 n
+0000001241 00000 n
+0000001294 00000 n
+0000001318 00000 n
+0000001503 00000 n
+0000001738 00000 n
+0000001762 00000 n
+0000001978 00000 n
+0000002002 00000 n
+0000002150 00000 n
+0000002188 00000 n
+0000002344 00000 n
+0000002503 00000 n
+0000002620 00000 n
+0000002644 00000 n
+0000003173 00000 n
+0000003413 00000 n
+0000003476 00000 n
+0000004688 00000 n
+0000004916 00000 n
+0000006126 00000 n
+0000006350 00000 n
+0000007532 00000 n
+0000007776 00000 n
+0000008952 00000 n
+0000009188 00000 n
+0000010359 00000 n
+0000010589 00000 n
+0000015955 00000 n
+0000017172 00000 n
+0000017405 00000 n
+0000022542 00000 n
+0000023760 00000 n
+0000023990 00000 n
+0000026250 00000 n
+0000026329 00000 n
+0000026365 00000 n
+0000026462 00000 n
+0000026491 00000 n
+0000026592 00000 n
+0000026616 00000 n
+0000026696 00000 n
+0000026730 00000 n
+0000026855 00000 n
+0000026906 00000 n
+0000026941 00000 n
+0000026984 00000 n
+0000027025 00000 n
+0000027066 00000 n
+0000027146 00000 n
+0000027287 00000 n
+trailer
+<</Size 64/Root 1 0 R/Info 3 0 R/ID[<C371B625AF198D459256A5DA98961F0B><BC74F3AFCA429944AD75DE6EF2B0C673>]>>
+startxref
+30799
+%%EOF

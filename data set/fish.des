@@ -1,0 +1,30 @@
+FISH.DES
+
+prca      prcw      qtya      qtyw      mon       tues      wed       thurs    
+speed2    wave2     speed3    wave3     avgprc    totqty    lavgprc   ltotqty  
+t         lavgp_1   gavgprc   gavgp_1   
+
+  Obs:            97
+
+ 1. prca            float  %9.0g                  price for Asian buyers
+ 2. prcw            float  %9.0g                  price for white buyers
+ 3. qtya            int    %9.0g                  quantity sold to Asians
+ 4. qtyw            int    %9.0g                  quantity sold to whites
+ 5. mon             byte   %9.0g                  =1 if Monday
+ 6. tues            byte   %9.0g                  =1 if Tuesday
+ 7. wed             byte   %9.0g                  =1 if Wednesday
+ 8. thurs           byte   %9.0g                  =1 if Thursday
+ 9. speed2          byte   %9.0g                  min past 2 days wind speeds
+10. wave2           float  %9.0g                  avg max last 2 days wave height
+11. speed3          byte   %9.0g                  3 day lagged max windspeed
+12. wave3           float  %9.0g                  avg max wave hghts of 3 & 4 day
+                                                lagged hghts
+13. avgprc          float  %9.0g                  ((prca*qtya) +
+                                                (prcw*qtyw))/(qtya + qtyw)
+14. totqty          int    %9.0g                  qtya + qtyw
+15. lavgprc         float  %9.0g                  log(avgprc)
+16. ltotqty         float  %9.0g                  log(totqty)
+17. t               byte   %9.0g                  time trend
+18. lavgp_1         float  %9.0g                  lavgprc[_n-1]
+19. gavgprc         float  %9.0g                  lavgprc - lavgp_1
+20. gavgp_1         float  %9.0g                  gavgprc[_n-1]
