@@ -107,8 +107,8 @@ def regress_h(y_head,X_head,file_name,summary=True):
 
     
             
-
-words='''sat    tothrs    colgpa    athlete   verbmath  hsize     hsrank    hsperc    female    white    black    hsizesq'''
+'''
+words='sat    tothrs    colgpa    athlete   verbmath  hsize     hsrank    hsperc    female    white    black    hsizesq'
 word=[w.strip() for w in words.split() if w!='']
 word_map={word[i]:i for i in range(len(word))}
 head_w=['hsperc','sat']
@@ -123,3 +123,4 @@ y, X = dmatrices('colgpa ~ hsperc + sat', data=data, return_type='dataframe')
 mod=sm.OLS(y,X)
 res=mod.fit()
 print res.summary()
+'''
